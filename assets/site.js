@@ -42,6 +42,28 @@
   window.addEventListener('scroll', onScroll, { passive: true });
 })();
 
+// Search icon toggle
+(function () {
+  const btn = document.querySelector('.search-icon-btn');
+  const nav = document.querySelector('.nav');
+  const pill = document.querySelector('.search-pill');
+  if (!btn || !nav || !pill) return;
+  btn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    nav.classList.add('search-active');
+    const input = pill.querySelector('input');
+    if (input) input.focus();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') nav.classList.remove('search-active');
+  });
+  document.addEventListener('click', (e) => {
+    if (!pill.contains(e.target) && e.target !== btn) {
+      nav.classList.remove('search-active');
+    }
+  });
+})();
+
 // Newsletter subscribed state
 document.querySelectorAll('form.form-pill').forEach(f => {
   f.addEventListener('submit', (e) => {
