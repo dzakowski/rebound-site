@@ -1,0 +1,33 @@
+# Rebound.org (reboundcongestion.org)
+
+> A free educational guide to rebound congestion (rhinitis medicamentosa): the nasal stuffiness caused by overusing decongestant sprays such as Afrin (oxymetazoline), Otrivin (xylometazoline) and Neo-Synephrine (phenylephrine), and how to stop using them.
+
+Key facts covered on the site: US labels limit decongestant sprays to 3 days in a row and the UK regulator to 5 days; rebound congestion is reversible; the standard approach is to stop or taper the decongestant, use a daily steroid nasal spray and saline, expect peak congestion around day 3, and see an ENT after years of use or failed attempts. Content is educational and is not medical advice.
+
+## Core guides
+
+- [Overview of rebound congestion (rhinitis medicamentosa) and how to get off decongestant nasal sprays](https://www.reboundcongestion.org/)
+- [How Afrin (oxymetazoline) causes rebound congestion: mechanism and key studies](https://www.reboundcongestion.org/science.html)
+- [The 8 signs of rebound congestion and a 90-second self-check](https://www.reboundcongestion.org/self-check.html)
+- [How to quit Afrin: cold turkey, one-nostril method and saline dilution taper compared, plus the steroid spray bridge](https://www.reboundcongestion.org/playbook.html)
+- [Afrin withdrawal timeline: what to expect day by day and how long rebound congestion lasts](https://www.reboundcongestion.org/timeline.html)
+- [Which nasal spray brands and active ingredients cause rebound congestion, and which do not](https://www.reboundcongestion.org/brands.html)
+- [Frequently asked questions about rebound congestion, recovery, steroid sprays and surgery](https://www.reboundcongestion.org/faq.html)
+- [Rebound congestion in pregnancy, CPAP users, children, older adults and athletes](https://www.reboundcongestion.org/special.html)
+- [Recovery stories from people who quit decongestant sprays](https://www.reboundcongestion.org/stories.html)
+
+## Blog
+
+- [Oxymetazoline plus a steroid spray: does the combination prevent rebound?](https://www.reboundcongestion.org/blog/oxymetazoline-steroid-combination-rebound.html): A 2026 review found a steroid + oxymetazoline spray eased allergic congestion for up to 28 days without significant rebound. What it shows, and its limits.
+- [Afrin withdrawal relief: 10 things that actually help](https://www.reboundcongestion.org/blog/afrin-withdrawal-relief.html): What helps during Afrin withdrawal: a steroid nasal spray, saline rinses, humidity and sleeping elevated, plus four things that make rebound congestion worse.
+- [How long can you safely use Afrin? The 3-day rule, explained](https://www.reboundcongestion.org/blog/how-long-can-you-use-afrin.html): Afrin's label says no more than 3 days. Here's why, what US and UK regulators say, what counts toward the limit, and what to do if you've used it longer.
+- [Afrin alternatives: what to use instead of a decongestant spray](https://www.reboundcongestion.org/blog/afrin-alternatives.html): Seven alternatives to Afrin that do not cause rebound congestion: steroid and antihistamine sprays, saline, oral options and non-drug fixes, and how to choose.
+- [12 myths about Afrin and rebound congestion, debunked](https://www.reboundcongestion.org/blog/afrin-myths.html): Is Flonase addictive too? Does switching brands help? Is night-only use safe? Twelve myths about Afrin and rebound congestion, checked against the evidence.
+- [When to see an ENT for rebound congestion](https://www.reboundcongestion.org/blog/when-to-see-an-ent.html): Red flags that mean it's time to see an ENT about nasal spray dependence, what happens at the appointment, the treatments they can offer and questions to ask.
+- [Turbinate reduction for rebound congestion: when surgery makes sense](https://www.reboundcongestion.org/blog/turbinate-reduction-surgery.html): Most people recover from rebound congestion without surgery. When turbinate reduction is considered, what two 2024 studies found, and the risks to weigh.
+- [How to stay off Afrin: a plan for your next cold](https://www.reboundcongestion.org/blog/stay-off-afrin-relapse-plan.html): After rebound congestion, one 'just this once' spray can bring it back fast. A simple relapse-prevention plan for colds, flights and allergy season.
+
+## About
+
+- [Sources and citations](https://www.reboundcongestion.org/sources.html): every reference used on the site
+- [Editorial standards](https://www.reboundcongestion.org/about.html): how content is researched, reviewed and corrected

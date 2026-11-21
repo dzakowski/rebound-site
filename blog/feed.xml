@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Rebound.org Blog</title>
+  <link>https://www.reboundcongestion.org/blog/</link>
+  <atom:link href="https://www.reboundcongestion.org/blog/feed.xml" rel="self" type="application/rss+xml" />
+  <description>Practical, sourced articles on rebound congestion and getting off decongestant nasal sprays.</description>
+  <language>en-us</language>
+  <lastBuildDate>Sat, 21 Nov 2026 12:00:00 GMT</lastBuildDate>
+  <item>
+    <title>Oxymetazoline plus a steroid spray: does the combination prevent rebound?</title>
+    <link>https://www.reboundcongestion.org/blog/oxymetazoline-steroid-combination-rebound.html</link>
+    <guid isPermaLink="true">https://www.reboundcongestion.org/blog/oxymetazoline-steroid-combination-rebound.html</guid>
+    <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+    <category>Research</category>
+    <description>A 2026 review found a steroid + oxymetazoline spray eased allergic congestion for up to 28 days without significant rebound. What it shows, and its limits.</description>
+  </item>
+  <item>
+    <title>Afrin withdrawal relief: 10 things that actually help</title>
+    <link>https://www.reboundcongestion.org/blog/afrin-withdrawal-relief.html</link>
+    <guid isPermaLink="true">https://www.reboundcongestion.org/blog/afrin-withdrawal-relief.html</guid>
+    <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+    <category>Recovery</category>
+    <description>What helps during Afrin withdrawal: a steroid nasal spray, saline rinses, humidity and sleeping elevated, plus four things that make rebound congestion worse.</description>
+  </item>
+  <item>
+    <title>How long can you safely use Afrin? The 3-day rule, explained</title>
+    <link>https://www.reboundcongestion.org/blog/how-long-can-you-use-afrin.html</link>
+    <guid isPermaLink="true">https://www.reboundcongestion.org/blog/how-long-can-you-use-afrin.html</guid>
+    <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+    <category>Prevention</category>
+    <description>Afrin&#x27;s label says no more than 3 days. Here&#x27;s why, what US and UK regulators say, what counts toward the limit, and what to do if you&#x27;ve used it longer.</description>
+  </item>
+  <item>
+    <title>Afrin alternatives: what to use instead of a decongestant spray</title>
+    <link>https://www.reboundcongestion.org/blog/afrin-alternatives.html</link>
+    <guid isPermaLink="true">https://www.reboundcongestion.org/blog/afrin-alternatives.html</guid>
+    <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+    <category>Alternatives</category>
+    <description>Seven alternatives to Afrin that do not cause rebound congestion: steroid and antihistamine sprays, saline, oral options and non-drug fixes, and how to choose.</description>
+  </item>
+  <item>
+    <title>12 myths about Afrin and rebound congestion, debunked</title>
+    <link>https://www.reboundcongestion.org/blog/afrin-myths.html</link>
+    <guid isPermaLink="true">https://www.reboundcongestion.org/blog/afrin-myths.html</guid>
+    <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+    <category>Myths</category>
+    <description>Is Flonase addictive too? Does switching brands help? Is night-only use safe? Twelve myths about Afrin and rebound congestion, checked against the evidence.</description>
+  </item>
+  <item>
+    <title>When to see an ENT for rebound congestion</title>
+    <link>https://www.reboundcongestion.org/blog/when-to-see-an-ent.html</link>
+    <guid isPermaLink="true">https://www.reboundcongestion.org/blog/when-to-see-an-ent.html</guid>
+    <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+    <category>Getting help</category>
+    <description>Red flags that mean it&#x27;s time to see an ENT about nasal spray dependence, what happens at the appointment, the treatments they can offer and questions to ask.</description>
+  </item>
+  <item>
+    <title>Turbinate reduction for rebound congestion: when surgery makes sense</title>
+    <link>https://www.reboundcongestion.org/blog/turbinate-reduction-surgery.html</link>
+    <guid isPermaLink="true">https://www.reboundcongestion.org/blog/turbinate-reduction-surgery.html</guid>
+    <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+    <category>Surgery</category>
+    <description>Most people recover from rebound congestion without surgery. When turbinate reduction is considered, what two 2024 studies found, and the risks to weigh.</description>
+  </item>
+  <item>
+    <title>How to stay off Afrin: a plan for your next cold</title>
+    <link>https://www.reboundcongestion.org/blog/stay-off-afrin-relapse-plan.html</link>
+    <guid isPermaLink="true">https://www.reboundcongestion.org/blog/stay-off-afrin-relapse-plan.html</guid>
+    <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+    <category>Staying off</category>
+    <description>After rebound congestion, one &#x27;just this once&#x27; spray can bring it back fast. A simple relapse-prevention plan for colds, flights and allergy season.</description>
+  </item>
+</channel>
+</rss>
