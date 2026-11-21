@@ -1060,3 +1060,8 @@ footer.site .blurb { color: #95A6A4; font-size: 14px; max-width: 320px; margin-t
 .notfound h1 { font-family: 'Instrument Serif', serif; font-size: clamp(44px, 7vw, 84px); line-height: 1; letter-spacing: -0.02em; }
 .notfound p { color: var(--ink-2); margin: 18px auto 28px; max-width: 46ch; font-size: 18px; }
 .notfound .links { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+
+/* ===== round 2 ===== */
+.page-hero.long h1 { max-width: 21ch; font-size: clamp(36px, 5.2vw, 62px); line-height: 1.0; }
+.story .attr a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+.hero .visual .label .big { white-space: nowrap; }
