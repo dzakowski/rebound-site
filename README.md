@@ -1,4 +1,4 @@
-# Rebound.org — static marketing/content site
+# ReboundCongestion.org — static marketing/content site
 
 A medically-reviewed, ad-free guide to getting off rebound-causing nasal sprays
 (rhinitis medicamentosa / Afrin, Sinex, Otrivin). Plain static site. No backend,
